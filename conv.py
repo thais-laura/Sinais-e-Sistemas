@@ -1,4 +1,4 @@
-# Dupla: Gabriella Castelari () e Thaís Laura (14608765)
+# Dupla: Gabriella Castelari (14755082) e Thaís Laura (14608765)
 # O programa realiza a convolução de sinais e plota estes e o resultado final
 
 import numpy as np
